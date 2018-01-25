@@ -1,0 +1,20 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+div.contactItem {
+	padding: 10vh 10vw;
+	text-align: center;
+}
+
+input, button {
+	height: 5vh;
+	font-family:'Roboto', sans-serif; 
+	margin: 2vh 1vw;
+	width: 15%;
+}
+
+.contactForm {
+	width: 100%;
+	text-align: center;
+}
