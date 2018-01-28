@@ -1,0 +1,26 @@
+{
+  "name": "zadanie-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "start": "http-server",
+  "dependencies": {
+    "babel-standalone": "^6.26.0"
+  },
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Metonimia/React-JSX.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Metonimia/React-JSX/issues"
+  },
+  "homepage": "https://github.com/Metonimia/React-JSX#readme"
+}
